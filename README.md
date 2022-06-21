@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nguyen Thanh Quang Huy. I am a final year student majoring in Software Engineering at Ton Duc Thang University :mortar_board:.
+I'm Nguyen Thanh Quang Huy. I'm a final year student majoring in Software Engineering at Ton Duc Thang University :mortar_board:.
 
 I like coding :computer:, tea :tea: or coffee :coffee: and playing games with my friends :video_game:.
 
